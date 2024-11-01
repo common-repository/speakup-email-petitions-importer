@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Speakup! Email Petition Importer\n"
+"POT-Creation-Date: 2013-09-27 10:41+0100\n"
+"PO-Revision-Date: 2013-09-27 10:41+0100\n"
+"Last-Translator: Bastien Ho <bastienho@urbancube.fr>\n"
+"Language-Team: bastho <bastienho@urbancube.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../form.php:4
+msgid "Select your CSV file"
+msgstr ""
+
+#: ../form.php:8
+msgid "File format:"
+msgstr ""
+
+#: ../form.php:34
+msgid "First line contents columns title"
+msgstr ""
+
+#: ../form.php:40
+msgid "Remove signatures before importing"
+msgstr ""
+
+#: ../form.php:42
+msgid "(cannot be undone)"
+msgstr ""
+
+#: ../form.php:45 ../class.importer.php:12
+msgid "Import"
+msgstr ""
+
+#: ../class.importer.php:8
+msgid "import signatures"
+msgstr ""
+
+#: ../class.importer.php:44
+msgid "Importer"
+msgstr ""
+
+#: ../class.importer.php:98
+msgid "Error while uploading file !"
+msgstr ""
+
+#: ../class.importer.php:102
+msgid "This is not a CSV file !"
+msgstr ""
+
+#: ../class.importer.php:107
+#, php-format
+msgid "Actually %s signatures in this petition"
+msgstr ""
+
+#: ../class.importer.php:140
+msgid "Error while parsing file, bad number of columns at line "
+msgstr ""
+
+#: ../class.importer.php:149
+msgid "Error while parsing file, cannot open document"
+msgstr ""

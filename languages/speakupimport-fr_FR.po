@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Speakup! Email Petition Importer\n"
+"POT-Creation-Date: 2013-11-21 13:53+0100\n"
+"PO-Revision-Date: 2013-11-21 13:54+0100\n"
+"Last-Translator: Bastien Ho <bastienho@urbancube.fr>\n"
+"Language-Team: bastho <bastienho@urbancube.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../form.php:4
+msgid "Select your CSV file"
+msgstr "Sélectionnez votre fichier CSV"
+
+#: ../form.php:8
+msgid "File format:"
+msgstr "Format de fichier :"
+
+#: ../form.php:12
+msgid "Tab separated values, 16 not empty columns (from A to P)"
+msgstr "Valeurs séparées par une tabulation, 16 colonnes non vides (de A à P)"
+
+#: ../form.php:39
+msgid "First line contents columns title"
+msgstr "La première ligne contient les titres de colonnes"
+
+#: ../form.php:45
+msgid "Remove signatures before importing"
+msgstr "Supprimer les signatures avant d'importer"
+
+#: ../form.php:47
+msgid "(cannot be undone)"
+msgstr "(ne peut être annulé)"
+
+#: ../form.php:50 ../class.importer.php:12
+msgid "Import"
+msgstr "Importer"
+
+#: ../class.importer.php:8
+msgid "import signatures"
+msgstr "importer des signatures"
+
+#: ../class.importer.php:44
+msgid "Importer"
+msgstr "Importateur"
+
+#: ../class.importer.php:98
+msgid "Error while uploading file !"
+msgstr "Erreur du téléchargement de fichier !"
+
+#: ../class.importer.php:102
+msgid "This is not a CSV file !"
+msgstr "Ce n'est pas un fichier CSV !"
+
+#: ../class.importer.php:107
+#, php-format
+msgid "Actually %s signatures in this petition"
+msgstr "Actuellement %s signatures dans cette pétition"
+
+#: ../class.importer.php:114
+msgid "Select petition"
+msgstr ""
+
+#: ../class.importer.php:140
+msgid "Error while parsing file, bad number of columns at line"
+msgstr "Erreur d'analyse du fichier, mauvais nombre de colonnes à la ligne"
+
+#: ../class.importer.php:149
+msgid "Error while parsing file, cannot open document"
+msgstr "Erreur d'analyse du fichier, ouverture de fichier impossible"
